@@ -1,0 +1,109 @@
+{
+  "name": "AgentAnalysis",
+  "type": "object",
+  "properties": {
+    "claim_id": {
+      "type": "string",
+      "description": "Reference to the Claim being analyzed"
+    },
+    "agent": {
+      "type": "string",
+      "enum": [
+        "openai",
+        "claude",
+        "gemini"
+      ],
+      "description": "Which of the three expert agents produced this analysis"
+    },
+    "model": {
+      "type": "string",
+      "description": "Specific model identifier used by the agent"
+    },
+    "pre_check": {
+      "type": "object",
+      "description": "Pauli-Frankfurt pre-check: verifiability and meaningfulness gate",
+      "properties": {
+        "passed": {
+          "type": "boolean"
+        },
+        "issues": {
+          "type": "string",
+          "description": "Detected issues (ambiguity, unfalsifiability, etc.)"
+        },
+        "reasoning": {
+          "type": "string"
+        }
+      }
+    },
+    "craap_assessment": {
+      "type": "object",
+      "description": "CRAAP epistemic assessment scores (0-10 each)",
+      "properties": {
+        "currency": {
+          "type": "number"
+        },
+        "relevance": {
+          "type": "number"
+        },
+        "authority": {
+          "type": "number"
+        },
+        "accuracy": {
+          "type": "number"
+        },
+        "purpose": {
+          "type": "number"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "ethics_assessment": {
+      "type": "object",
+      "description": "Ethical-risk assessment",
+      "properties": {
+        "risk_level": {
+          "type": "string",
+          "enum": [
+            "low",
+            "medium",
+            "high",
+            "critical"
+          ]
+        },
+        "risks": {
+          "type": "string",
+          "description": "Identified ethical risks (misinformation, harm, bias)"
+        },
+        "mitigations": {
+          "type": "string"
+        }
+      }
+    },
+    "verdict": {
+      "type": "string",
+      "enum": [
+        "true",
+        "mostly_true",
+        "half_true",
+        "mostly_false",
+        "false",
+        "pants_on_fire"
+      ],
+      "description": "Six-class factual verdict from this agent"
+    },
+    "confidence": {
+      "type": "number",
+      "description": "Agent self-reported confidence (0-1)"
+    },
+    "reasoning": {
+      "type": "string",
+      "description": "Full reasoning chain across the pipeline"
+    }
+  },
+  "required": [
+    "claim_id",
+    "agent"
+  ]
+}

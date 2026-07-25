@@ -1,0 +1,67 @@
+{
+  "name": "ConsensusResult",
+  "type": "object",
+  "properties": {
+    "claim_id": {
+      "type": "string",
+      "description": "Reference to the Claim this consensus resolves"
+    },
+    "strategy": {
+      "type": "string",
+      "enum": [
+        "moe",
+        "majority",
+        "confidence_weighted",
+        "gate_routing"
+      ],
+      "description": "Consensus strategy: calibration-weighted MoE, majority voting, confidence-weighted voting, or gate-specific routing"
+    },
+    "final_verdict": {
+      "type": "string",
+      "enum": [
+        "true",
+        "mostly_true",
+        "half_true",
+        "mostly_false",
+        "false",
+        "pants_on_fire"
+      ]
+    },
+    "confidence": {
+      "type": "number",
+      "description": "Combined confidence (0-1)"
+    },
+    "agent_agreement": {
+      "type": "number",
+      "description": "Agreement ratio across the three agents (0-1)"
+    },
+    "weights": {
+      "type": "object",
+      "description": "Per-agent weights applied by this strategy",
+      "properties": {
+        "openai": {
+          "type": "number"
+        },
+        "claude": {
+          "type": "number"
+        },
+        "gemini": {
+          "type": "number"
+        }
+      }
+    },
+    "details": {
+      "type": "string",
+      "description": "Explanation of how the consensus was reached"
+    },
+    "is_primary": {
+      "type": "boolean",
+      "default": false,
+      "description": "True for the primary MoE result; alternatives are false"
+    }
+  },
+  "required": [
+    "claim_id",
+    "strategy"
+  ]
+}

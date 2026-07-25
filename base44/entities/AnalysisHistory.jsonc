@@ -1,0 +1,28 @@
+{
+  "name": "AnalysisHistory",
+  "type": "object",
+  "properties": {
+    "claim_id": {
+      "type": "string",
+      "description": "Reference to the saved Claim"
+    },
+    "title": {
+      "type": "string",
+      "description": "Short user-assigned title for the saved analysis"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Optional user notes about why this analysis was saved"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "User-assigned tags for filtering saved analyses"
+    }
+  },
+  "required": [
+    "claim_id"
+  ]
+}
