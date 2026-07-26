@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useLocation, useNavigate, Link } from "react-router-dom";
 import {
   ClipboardCheck,
@@ -45,11 +45,36 @@ export default function Results() {
   const navigate = useNavigate();
   const { toast } = useToast();
   const state = location.state || {};
-  const { claim, domain, context, outcome, agents: rawAgents = {} } = state;
+
+  const [loaded, setLoaded] = useState(null);
+  const [loadingSaved, setLoadingSaved] = useState(!!state.claimId);
 
   const [tab, setTab] = useState("primary");
   const [saving, setSaving] = useState(false);
-  const [saved, setSaved] = useState(false);
+  const [saved, setSaved] = useState(!!state.claimId);
+
+  useEffect(() => {
+    if (!state.claimId) return;
+    let active = true;
+    setLoadingSaved(true);
+    base44.entities.Claim
+      .get(state.claimId)
+      .then((c) => {
+        if (active) setLoaded(c.result_snapshot || null);
+      })
+      .catch(() => {
+        if (active) setLoaded(null);
+      })
+      .finally(() => {
+        if (active) setLoadingSaved(false);
+      });
+    return () => {
+      active = false;
+    };
+  }, [state.claimId]);
+
+  const analysis = loaded || state;
+  const { claim, domain, context, outcome, agents: rawAgents = {} } = analysis;
 
   const validAgents = useMemo(
     () =>
@@ -81,6 +106,14 @@ export default function Results() {
       }),
     [rawAgents]
   );
+
+  if (loadingSaved) {
+    return (
+      <div className="flex items-center justify-center py-24">
+        <Loader2 className="h-6 w-6 animate-spin text-muted-foreground" />
+      </div>
+    );
+  }
 
   if (!claim || !consensus || validAgents.length < 2) {
     return (
@@ -130,11 +163,18 @@ export default function Results() {
     try {
       const claimRec = await base44.entities.Claim.create({
         text: claim,
-        source: context || "",
+        context: context || "",
         category: DOMAIN_TO_CATEGORY[domain] || "other",
         status: "completed",
         final_verdict: consensus.primary,
         consensus_confidence: consensus.confidence,
+        result_snapshot: {
+          claim,
+          domain,
+          context,
+          outcome,
+          agents: rawAgents,
+        },
       });
       await base44.entities.AnalysisHistory.create({
         claim_id: claimRec.id,

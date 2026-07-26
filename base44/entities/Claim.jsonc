@@ -55,6 +55,28 @@
     "consensus_confidence": {
       "type": "number",
       "description": "Confidence score (0-1) of the primary consensus result"
+    },
+    "result_snapshot": {
+      "type": "object",
+      "description": "Full result payload (claim, domain, context, outcome, per-agent outputs) persisted so the saved analysis can be reopened as the full Results view",
+      "properties": {
+        "claim": {
+          "type": "string"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "context": {
+          "type": "string"
+        },
+        "outcome": {
+          "type": "string"
+        },
+        "agents": {
+          "type": "object",
+          "description": "Per-agent outputs keyed by agent id, each with status and optional summary"
+        }
+      }
     }
   },
   "required": [
