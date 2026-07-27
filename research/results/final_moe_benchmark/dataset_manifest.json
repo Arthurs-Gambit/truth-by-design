@@ -1,0 +1,40 @@
+{
+  "seed": 20260720,
+  "raw_rows": {
+    "political": 797,
+    "scientific": 797,
+    "total": 1594
+  },
+  "excluded_blank_claims": 0,
+  "excluded_non_six_class_labels": 1,
+  "excluded_duplicate_claims": 38,
+  "valid_unique_claims": 1555,
+  "valid_by_dataset": {
+    "political": 781,
+    "scientific": 774
+  },
+  "gold_distribution": {
+    "political": {
+      "False": 208,
+      "Mostly False": 208,
+      "Mostly True": 128,
+      "True": 108,
+      "Half True": 103,
+      "Pants on Fire": 26
+    },
+    "scientific": {
+      "True": 392,
+      "False": 368,
+      "Pants on Fire": 11,
+      "Mostly True": 3
+    }
+  },
+  "baseline_name": "inherited_prior_study_baseline",
+  "prompt_development_claims": 18,
+  "calibration_claims": 62,
+  "evaluation_pool_claims": 1475,
+  "evaluation_run_claims": 1475,
+  "pilot_per_dataset": null,
+  "prompt_examples_per_class": 2,
+  "calibration_per_class_cap": 8
+}
