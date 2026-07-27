@@ -1,0 +1,798 @@
+﻿Claim,Original label,Gold_Verdict,Pred_Verdict
+"“The speed of light in vacuum is approximately 299,792 kilometres per second.”",TRUE,TRUE,TRUE
+“An object in motion remains in motion at constant velocity unless acted on by an external force.”,TRUE,TRUE,TRUE
+“An electric current in a conductor produces a magnetic field around the conductor.”,TRUE,TRUE,TRUE
+"“In a vacuum, electromagnetic waves travel at the speed of light.”",TRUE,TRUE,TRUE
+"“Mass and energy are equivalent, as expressed in the equation E = mc.”",TRUE,FALSE,FALSE
+“The melting point of pure ice at standard atmospheric pressure is 0 degrees Celsius.”,TRUE,TRUE,TRUE
+“Gravity acts between all objects with mass.”,TRUE,TRUE,TRUE
+“The Earth completes one rotation on its axis approximately every 24 hours.”,TRUE,TRUE,TRUE
+“The acceleration due to gravity at Earth’s surface is about 9.8 metres per second squared.”,TRUE,TRUE,TRUE
+“Sound cannot travel through a vacuum.”,TRUE,TRUE,TRUE
+“Heat flows spontaneously from objects at higher temperature to objects at lower temperature.”,TRUE,TRUE,TRUE
+“1.602 × 10⁻¹⁹ coulombs.”,TRUE,TRUE,TRUE
+“The photon has zero rest mass.”,TRUE,TRUE,TRUE
+The law of conservation of momentum states that the total momentum of an isolated system remains constant.,TRUE,TRUE,TRUE
+Light exhibits both wave-like and particle-like properties.,TRUE,TRUE,TRUE
+"The first law of thermodynamics states that energy cannot be created or destroyed, only transformed.",TRUE,TRUE,TRUE
+The second law of thermodynamics states that entropy of an isolated system never decreases.,TRUE,TRUE,TRUE
+A rainbow is formed by the dispersion and reflection of sunlight in water droplets.,TRUE,TRUE,TRUE
+The period of a pendulum increases with the square root of its length for small amplitudes.,TRUE,TRUE,TRUE
+The refractive index of a medium determines the bending of light entering that medium.,TRUE,TRUE,TRUE
+The kinetic energy of an object is equal to one half of its mass times the square of its velocity.,TRUE,TRUE,TRUE
+The Earth’s magnetic field roughly resembles that of a dipole tilted relative to the planet’s rotation axis.,TRUE,TRUE,TRUE
+"In a closed circuit, the current entering a junction equals the current leaving it.",TRUE,TRUE,TRUE
+–1.602×10⁻¹⁹ coulombs.,TRUE,Unverifiable,Unverifiable
+"At sea level, atmospheric pressure is about 101.3 kilopascals.",TRUE,TRUE,TRUE
+Visible light occupies wavelengths roughly between 400 and 700 nanometres.,TRUE,TRUE,TRUE
+"In an elastic collision, kinetic energy is conserved.",TRUE,TRUE,TRUE
+The momentum of a photon is given by its energy divided by the speed of light.,TRUE,TRUE,TRUE
+6.626×10⁻³⁴ J·s,TRUE,TRUE,TRUE
+The Bohr radius is approximately 0.529 angstroms.,TRUE,TRUE,TRUE
+Blackbody radiation spectrum depends only on the temperature of the blackbody.,TRUE,TRUE,TRUE
+The Coulomb force between two charges decreases with the square of the distance between them.,TRUE,TRUE,TRUE
+The Lorentz factor increases as an object’s velocity approaches the speed of light.,TRUE,TRUE,TRUE
+The Doppler effect causes the observed frequency of waves to change with relative motion between source and observer.,TRUE,TRUE,TRUE
+Pascal’s principle states that pressure applied to a confined fluid is transmitted undiminished in all directions.,TRUE,TRUE,TRUE
+Archimedes’ principle states that the buoyant force on a submerged object equals the weight of the fluid displaced.,TRUE,TRUE,TRUE
+The critical angle for total internal reflection occurs when light moves from a medium of higher refractive index to lower.,TRUE,TRUE,TRUE
+A magnetic field exerts a force on a moving electric charge perpendicular to both the field and the velocity.,TRUE,TRUE,TRUE
+"In uniform circular motion, the centripetal acceleration is directed toward the center of the circle.",TRUE,TRUE,TRUE
+Electrons occupy discrete energy levels in atoms.,TRUE,TRUE,TRUE
+Nuclear fission occurs when a heavy nucleus splits into lighter nuclei releasing energy.,TRUE,TRUE,TRUE
+Nuclear fusion powers the Sun by combining hydrogen nuclei into helium.,TRUE,TRUE,TRUE
+The half-life of a radioactive isotope is the time required for half of the sample to decay.,TRUE,TRUE,TRUE
+"The principle of superposition states that when two waves overlap, the resultant displacement is the vector sum of the individual displacements.",TRUE,TRUE,TRUE
+The photoelectric effect demonstrates that light can eject electrons from a metal surface.,TRUE,TRUE,TRUE
+The permeability of free space is approximately 4×10⁻⁷ henry per meter.,TRUE,TRUE,TRUE
+The usable energy extracted from a heat engine is limited by the Carnot efficiency.,TRUE,TRUE,TRUE
+The refractive index of air is slightly greater than 1.,TRUE,TRUE,TRUE
+Gravitational waves propagate at the speed of light.,TRUE,TRUE,TRUE
+The SI unit of electric current is the ampere.,TRUE,TRUE,TRUE
+The SI unit of force is the newton.,TRUE,TRUE,TRUE
+The SI unit of power is the watt.,TRUE,TRUE,TRUE
+The escape velocity from Earth’s surface is about 11.2 km/s.,TRUE,TRUE,TRUE
+The density of pure water at 4 °C is approximately 1 g/cm³.,TRUE,TRUE,TRUE
+The capacitance of a parallel-plate capacitor increases with the area of the plates and decreases with the separation between them.,TRUE,TRUE,TRUE
+Lenz’s law indicates that induced currents oppose the change causing them.,TRUE,TRUE,TRUE
+The wavelength of a wave multiplied by its frequency equals its speed.,TRUE,TRUE,TRUE
+The gravitational constant G is approximately 6.674×10⁻¹¹ N·m²/kg².,TRUE,TRUE,TRUE
+"The acceleration of a body falling freely near Earth is independent of its mass, neglecting air resistance.",TRUE,TRUE,TRUE
+Inertia is the property of matter that resists changes in motion.,TRUE,TRUE,TRUE
+The impedance of a resistor is purely real.,TRUE,TRUE,TRUE
+A convex lens can converge parallel rays of light to a focal point.,TRUE,TRUE,TRUE
+Sound travels faster in water than in air at the same temperature.,TRUE,TRUE,TRUE
+The electric field lines originate on positive charges and terminate on negative charges.,TRUE,TRUE,TRUE
+Photons carry momentum despite having no rest mass.,TRUE,TRUE,TRUE
+The triple point of water is at 0.01 °C and 611 Pa.,TRUE,TRUE,TRUE
+"The Rutherford gold-foil experiment demonstrated that atoms have a small, dense nucleus.",TRUE,TRUE,TRUE
+Ferromagnetic materials can retain magnetization after an external magnetic field is removed.,TRUE,TRUE,TRUE
+A solenoid carrying current produces a nearly uniform magnetic field inside its coils.,TRUE,TRUE,TRUE
+"In an ideal gas, pressure times volume is proportional to temperature.",TRUE,TRUE,TRUE
+The Stefan–Boltzmann law states that total radiant emittance of a blackbody is proportional to T⁴.,TRUE,TRUE,TRUE
+A geostationary satellite orbits Earth once per sidereal day at ≈ 35 786 km altitude above the equator.,TRUE,TRUE,TRUE
+The speed of sound in dry air at 20 °C is about 343 m/s.,TRUE,TRUE,TRUE
+"Beta decay involves conversion of a neutron into a proton, electron, and antineutrino.",TRUE,TRUE,TRUE
+Gamma rays are electromagnetic radiation of the highest frequency.,TRUE,TRUE,TRUE
+The SI base units are defined in terms of physical constants.,TRUE,TRUE,TRUE
+The principle of equivalence is a cornerstone of general relativity.,TRUE,TRUE,TRUE
+"In anisotropic materials, physical properties vary with direction.",TRUE,TRUE,TRUE
+The Bragg condition describes constructive interference of X-rays scattered by crystal planes.,TRUE,TRUE,TRUE
+The Fermi level represents the chemical potential for electrons in a solid at absolute zero.,TRUE,TRUE,TRUE
+The Zeeman effect is the splitting of spectral lines in a magnetic field.,TRUE,TRUE,TRUE
+Ultracold atoms can form a Bose–Einstein condensate.,TRUE,TRUE,TRUE
+The wavefunction of a particle contains information about its probability distribution.,TRUE,TRUE,TRUE
+The Heisenberg uncertainty principle states that position and momentum cannot both be known with arbitrary precision.,TRUE,TRUE,TRUE
+A capacitor stores energy in an electric field.,TRUE,TRUE,TRUE
+The maximum efficiency of a single-junction solar cell is limited by the Shockley–Queisser limit.,TRUE,TRUE,TRUE
+The power radiated by an antenna increases with the square of the current.,TRUE,TRUE,TRUE
+"When light passes from air into glass, it slows down.",TRUE,TRUE,TRUE
+The mechanical advantage of an ideal lever equals the ratio of the lengths of its arms.,TRUE,TRUE,TRUE
+Resonance occurs when a system is driven at its natural frequency.,TRUE,TRUE,TRUE
+The path of a projectile under uniform gravity neglecting air resistance is parabolic.,TRUE,TRUE,TRUE
+9.109×10⁻³¹ kg,TRUE,TRUE,TRUE
+A standing wave forms when two waves of the same frequency travel in opposite directions and interfere.,TRUE,TRUE,TRUE
+Electrical resistance of metallic conductors increases with temperature.,TRUE,TRUE,TRUE
+Quantum tunneling allows particles to penetrate energy barriers higher than their kinetic energy.,TRUE,TRUE,TRUE
+The cosmic microwave background radiation is a remnant of the early universe.,TRUE,TRUE,TRUE
+The inductance of a coil depends on the number of turns and the core material.,TRUE,TRUE,TRUE
+The SI base unit of temperature is the kelvin.,TRUE,TRUE,TRUE
+The physical constant (c) is invariant in all inertial reference frames.,TRUE,TRUE,TRUE
+The Declaration of Independence of the United States was signed in 1776.,TRUE,Mostly True,Mostly True
+The Western Roman Empire officially fell in 476 CE when the last emperor was deposed.,TRUE,TRUE,TRUE
+Christopher Columbus first landed in the Americas in 1492.,TRUE,TRUE,TRUE
+The French Revolution began in 1789.,TRUE,TRUE,TRUE
+World War II ended in Europe in May 1945.,TRUE,TRUE,TRUE
+The Berlin Wall fell in 1989.,TRUE,TRUE,TRUE
+Johannes Gutenberg introduced the movable-type printing press to Europe in the 1450s.,TRUE,TRUE,TRUE
+The Magna Carta was sealed by King John of England in 1215.,TRUE,TRUE,TRUE
+The Battle of Hastings occurred in 1066.,TRUE,TRUE,TRUE
+The Black Death peaked in Europe between 1347 and 1351.,TRUE,TRUE,TRUE
+The Wright brothers achieved the first powered controlled flight in 1903.,TRUE,TRUE,TRUE
+Neil Armstrong became the first human to walk on the Moon in 1969.,TRUE,TRUE,TRUE
+The American Civil War lasted from 1861 to 1865.,TRUE,TRUE,TRUE
+The Aztec Empire was conquered by Hernán Cortés in 1521.,TRUE,TRUE,TRUE
+The ancient Olympic Games originated in Greece in 776 BCE.,TRUE,TRUE,TRUE
+The Meiji Restoration in Japan began in 1868.,TRUE,TRUE,TRUE
+The Protestant Reformation started with Martin Luther’s 95 Theses in 1517.,TRUE,TRUE,TRUE
+The Treaty of Versailles was signed in 1919.,TRUE,TRUE,TRUE
+The Russian Revolution occurred in 1917.,TRUE,TRUE,TRUE
+The Great Wall of China was built over several dynasties beginning in the 7th century BCE.,TRUE,TRUE,TRUE
+The first successful telegraph message was sent by Samuel Morse in 1844.,TRUE,TRUE,TRUE
+Mahatma Gandhi led the Salt March in 1930.,TRUE,TRUE,TRUE
+The Suez Canal officially opened in 1869.,TRUE,TRUE,TRUE
+The Titanic sank in 1912.,TRUE,TRUE,TRUE
+The League of Nations was founded in 1920.,TRUE,TRUE,TRUE
+The Renaissance began in Italy in the 14th century.,TRUE,TRUE,TRUE
+India gained independence from Britain in 1947.,TRUE,TRUE,TRUE
+The first atomic bomb was detonated in New Mexico on July 16 1945.,TRUE,TRUE,TRUE
+The fall of Constantinople occurred in 1453.,TRUE,TRUE,TRUE
+The Bosnian War lasted from 1992 to 1995.,TRUE,TRUE,TRUE
+The United Nations was established in 1945.,TRUE,TRUE,TRUE
+The Cuban Missile Crisis occurred in 1962.,TRUE,TRUE,TRUE
+The Oktoberfest tradition began in Bavaria in 1810.,TRUE,TRUE,TRUE
+Nelson Mandela was released from prison in 1990.,TRUE,TRUE,TRUE
+The Korean War began in 1950.,TRUE,TRUE,TRUE
+The first modern Olympic Games were held in Athens in 1896.,TRUE,TRUE,TRUE
+The Hubble Space Telescope was launched in 1990.,TRUE,TRUE,TRUE
+The Pax Romana lasted approximately from 27 BCE to 180 CE.,TRUE,TRUE,TRUE
+The Code of Hammurabi was created around 1754 BCE.,TRUE,TRUE,TRUE
+The Spanish Armada was defeated in 1588.,TRUE,TRUE,TRUE
+The city of Pompeii was destroyed by the eruption of Mount Vesuvius in 79 CE.,TRUE,TRUE,TRUE
+The United States purchased Alaska from Russia in 1867.,TRUE,TRUE,TRUE
+The Thirty Years' War lasted from 1618 to 1648.,TRUE,TRUE,TRUE
+The first successful vaccine was developed by Edward Jenner in 1796.,TRUE,TRUE,TRUE
+The Balfour Declaration was issued in 1917.,TRUE,TRUE,TRUE
+The Battle of Waterloo occurred in 1815.,TRUE,TRUE,TRUE
+The Haitian Revolution ended in 1804 with Haiti's independence.,TRUE,TRUE,TRUE
+The Louisiana Purchase took place in 1803.,TRUE,TRUE,TRUE
+The Emancipation Proclamation was issued in 1863.,TRUE,TRUE,TRUE
+The Vietnam War ended in 1975.,TRUE,TRUE,TRUE
+The Rosetta Stone was discovered in 1799.,TRUE,TRUE,TRUE
+The California Gold Rush began in 1848.,TRUE,TRUE,TRUE
+The Treaty of Tordesillas was signed in 1494.,TRUE,TRUE,TRUE
+The Berlin Airlift took place from 1948 to 1949.,TRUE,TRUE,TRUE
+The first U.S. transcontinental railroad was completed in 1869.,TRUE,TRUE,TRUE
+The Potala Palace in Lhasa was completed in its present form in 1649.,TRUE,TRUE,TRUE
+The Apollo–Soyuz Test Project occurred in 1975.,TRUE,TRUE,TRUE
+The Great Fire of London happened in 1666.,TRUE,TRUE,TRUE
+The United States Constitution was ratified in 1788.,TRUE,TRUE,TRUE
+The Persian Empire under Cyrus the Great began in 550 BCE.,TRUE,TRUE,TRUE
+The Battle of Gettysburg was fought in 1863.,TRUE,TRUE,TRUE
+The Reign of Terror in France occurred from 1793 to 1794.,TRUE,TRUE,TRUE
+The first human heart transplant was performed in 1967.,TRUE,TRUE,TRUE
+The Inca city of Machu Picchu was built in the 15th century.,TRUE,TRUE,TRUE
+The Gutenberg Bible was printed around 1455.,TRUE,TRUE,TRUE
+The Helsinki Accords were signed in 1975.,TRUE,TRUE,TRUE
+The first email was sent in 1971.,TRUE,TRUE,TRUE
+The euro currency was introduced in 1999 for electronic transactions.,TRUE,TRUE,TRUE
+The Channel Tunnel between England and France opened in 1994.,TRUE,TRUE,TRUE
+The Middle Ages followed the fall of the Western Roman Empire.,TRUE,TRUE,TRUE
+The ancient city of Babylon was located in present-day Iraq.,TRUE,TRUE,TRUE
+The Silk Road facilitated trade between Asia and Europe starting around the 2nd century BCE.,TRUE,TRUE,TRUE
+The first successful photograph was taken by Nicéphore Niépce in 1826.,TRUE,TRUE,TRUE
+The Erie Canal opened in 1825.,TRUE,TRUE,TRUE
+The Battle of Stalingrad lasted from 1942 to 1943.,TRUE,TRUE,TRUE
+The Spanish flu pandemic began in 1918.,TRUE,TRUE,TRUE
+Stephenson’s Locomotion No. 1 ran in 1825.,TRUE,TRUE,TRUE
+The computer ENIAC was completed in 1945.,TRUE,TRUE,TRUE
+"The African Union was founded in 2002, replacing the OAU.",TRUE,TRUE,TRUE
+"The Qing dynasty was the last imperial dynasty of China, ending in 1912.",TRUE,TRUE,TRUE
+The First Crusade was launched in 1096.,TRUE,TRUE,TRUE
+Brazil declared independence from Portugal in 1822.,TRUE,TRUE,TRUE
+The Warsaw Pact was formed in 1955.,TRUE,TRUE,TRUE
+The Colosseum in Rome was completed around 80 CE.,TRUE,TRUE,TRUE
+Alexander Fleming discovered penicillin in 1928.,TRUE,TRUE,TRUE
+The Battle of Midway took place in 1942.,TRUE,TRUE,TRUE
+The Yalta Conference was held in 1945.,TRUE,TRUE,TRUE
+The Ashoka Pillar inscriptions date to the 3rd century BCE.,TRUE,TRUE,TRUE
+The Great Depression began with the stock market crash of 1929.,TRUE,TRUE,TRUE
+The Parliament of Great Britain was formed in 1707.,TRUE,TRUE,TRUE
+The Battle of Agincourt occurred in 1415.,TRUE,TRUE,TRUE
+Significant destruction of the Library of Alexandria had occurred by 48 BCE.,TRUE,TRUE,TRUE
+Julius Caesar crossed the Rubicon in 49 BCE.,TRUE,TRUE,TRUE
+The Taj Mahal was completed in 1653.,TRUE,TRUE,TRUE
+The Battle of Lepanto was fought in 1571.,TRUE,TRUE,TRUE
+The Mayflower landed at Plymouth in 1620.,TRUE,TRUE,TRUE
+NASA’s Viking 1 lander touched down on Mars in 1976.,TRUE,TRUE,TRUE
+The Marshall Plan was enacted in 1948.,TRUE,TRUE,TRUE
+The Treaty of Paris ending the American Revolutionary War was signed in 1783.,TRUE,TRUE,TRUE
+The Slavery Abolition Act was passed in the British Empire in 1833.,TRUE,TRUE,TRUE
+The human heart has four chambers.,TRUE,TRUE,TRUE
+Insulin regulates blood glucose levels.,TRUE,TRUE,TRUE
+Antibiotics are ineffective against viral infections.,TRUE,TRUE,TRUE
+Vitamin C deficiency causes scurvy.,TRUE,TRUE,TRUE
+The liver is capable of regenerating lost tissue.,TRUE,TRUE,TRUE
+Low-density lipoprotein cholesterol contributes to atherosclerosis.,TRUE,TRUE,TRUE
+The average human adult has 206 bones.,TRUE,TRUE,TRUE
+Hypertension increases the risk of stroke.,TRUE,TRUE,TRUE
+The influenza virus can mutate rapidly.,TRUE,TRUE,TRUE
+Type 1 diabetes involves autoimmune destruction of pancreatic beta cells.,TRUE,TRUE,TRUE
+The human body maintains a core temperature of about 37 °C.,TRUE,TRUE,TRUE
+Vaccines stimulate the immune system to produce antibodies.,TRUE,TRUE,TRUE
+HIV targets CD4-positive T cells.,TRUE,TRUE,TRUE
+The appendix is attached to the cecum of the colon.,TRUE,TRUE,TRUE
+A normal adult respiratory rate at rest is about 12–20 breaths per minute.,TRUE,TRUE,TRUE
+Osteoporosis is more common in postmenopausal women.,TRUE,TRUE,TRUE
+The blood-brain barrier limits passage of many substances from blood to brain tissue.,TRUE,TRUE,TRUE
+The kidneys filte,TRUE,TRUE,TRUE
+The cornea is the transparent front part of the eye.,TRUE,TRUE,TRUE
+The pancreas secretes digestive enzymes.,TRUE,TRUE,TRUE
+Smoking cigarettes increases the risk of lung cancer.,TRUE,TRUE,TRUE
+The meninges protect the brain and spinal cord.,TRUE,TRUE,TRUE
+Platelets are essential for blood clotting.,TRUE,TRUE,TRUE
+The cerebellum coordinates voluntary movement.,TRUE,TRUE,TRUE
+Myelin sheaths insulate axons.,TRUE,TRUE,TRUE
+Antibodies are proteins produced by B lymphocytes.,TRUE,TRUE,TRUE
+Persistent high blood pressure increases the risk of cardiovascular disease.,TRUE,TRUE,TRUE
+Asthma is characterized by airway inflammation and bronchoconstriction.,TRUE,TRUE,TRUE
+"The human genome contains about 20,000 protein-coding genes.",TRUE,TRUE,TRUE
+Iron deficiency leads to microcytic anemia.,TRUE,TRUE,TRUE
+The pituitary gland is often called the master gland.,TRUE,TRUE,TRUE
+Measles is highly contagious but preventable by vaccination.,TRUE,TRUE,TRUE
+Chronic alcohol consumption can lead to cirrhosis of the liver.,TRUE,TRUE,TRUE
+The retina contains photoreceptor cells called rods and cones.,TRUE,TRUE,TRUE
+The primary function of the small intestine is nutrient absorption.,TRUE,TRUE,TRUE
+Hepatitis B is caused by a DNA virus.,TRUE,TRUE,TRUE
+Tuberculosis is caused by Mycobacterium tuberculosis.,TRUE,TRUE,TRUE
+Malaria is transmitted by Anopheles mosquitoes.,TRUE,TRUE,TRUE
+The alveoli are the sites of gas exchange in the lungs.,TRUE,TRUE,TRUE
+Antiretroviral therapy can suppress HIV replication.,TRUE,TRUE,TRUE
+"The middle ear contains three ossicles: malleus, incus, and stapes.",TRUE,TRUE,TRUE
+An electrocardiogram records the electrical activity of the heart.,TRUE,TRUE,TRUE
+Peripheral neuropathy can result from uncontrolled diabetes.,TRUE,TRUE,TRUE
+Adenosine triphosphate (ATP) is the primary energy currency of the cell.,TRUE,TRUE,TRUE
+Coronary arteries supply blood to the heart muscle.,TRUE,TRUE,TRUE
+The cerebrum is divided into two hemispheres.,TRUE,TRUE,TRUE
+Cholera is caused by Vibrio cholerae.,TRUE,TRUE,TRUE
+The thyroid gland produces thyroxine and triiodothyronine.,TRUE,TRUE,TRUE
+The normal pH of arterial blood is around 7.4.,TRUE,TRUE,TRUE
+Anaphylaxis is a severe systemic allergic reaction.,TRUE,TRUE,TRUE
+Neurons communicate via synapses.,TRUE,TRUE,TRUE
+The incubation period for chickenpox is typically 10 to 21 days.,TRUE,TRUE,TRUE
+The human stomach secretes hydrochloric acid.,TRUE,TRUE,TRUE
+The incubation period for COVID-19 is generally 2 to 14 days.,TRUE,TRUE,TRUE
+The universal donor blood type for red cells is O negative.,TRUE,TRUE,TRUE
+Sleep apnea involves intermittent cessation of breathing during sleep.,TRUE,TRUE,TRUE
+The median human gestation period is about 40 weeks.,TRUE,TRUE,TRUE
+The HPV vaccine protects against cervical cancer.,TRUE,TRUE,TRUE
+Regular physical exercise strengthens the cardiovascular system.,TRUE,TRUE,TRUE
+Cataracts cause clouding of the eye’s lens.,TRUE,TRUE,TRUE
+Probiotics are beneficial bacteria that can aid digestion.,TRUE,TRUE,TRUE
+Rheumatoid arthritis is an autoimmune disease.,TRUE,TRUE,TRUE
+The medulla oblongata regulates breathing and heart rate.,TRUE,TRUE,TRUE
+"Influenza pandemics occurred in 1918, 1957, 1968, and 2009.",TRUE,TRUE,TRUE
+Antibiotic resistance arises from misuse and overuse of antibiotics.,TRUE,TRUE,TRUE
+Vitamin D is synthesized in the skin upon exposure to ultraviolet light.,TRUE,TRUE,TRUE
+Hyperthyroidism results from excessive thyroid hormone production.,TRUE,TRUE,TRUE
+Glaucoma is associated with increased intraocular pressure.,TRUE,TRUE,TRUE
+The spinal cord ends around the L1–L2 vertebral level.,TRUE,TRUE,TRUE
+Beta blockers reduce heart rate and blood pressure.,TRUE,TRUE,TRUE
+The primary vector for Lyme disease is the deer tick.,TRUE,TRUE,TRUE
+"Hemostasis involves vasoconstriction, platelet plug formation, and coagulation.",TRUE,TRUE,TRUE
+The incubation period for rabies can be several weeks to months.,TRUE,TRUE,TRUE
+Dopamine is a neurotransmitter involved in reward pathways.,TRUE,TRUE,TRUE
+A body mass index over 30 is classified as obese.,TRUE,TRUE,TRUE
+Alveolar type II cells produce surfactant.,TRUE,TRUE,TRUE
+Epstein–Barr virus can cause infectious mononucleosis.,TRUE,TRUE,TRUE
+The sinoatrial node is the natural pacemaker of the heart.,TRUE,TRUE,TRUE
+The longest nerve in the human body is the sciatic nerve.,TRUE,TRUE,TRUE
+Sickle cell disease results from a mutation in the beta-globin gene.,TRUE,TRUE,TRUE
+Celiac disease is triggered by gluten ingestion.,TRUE,TRUE,TRUE
+"Antigen-presenting cells include dendritic cells, macrophages, and B cells.",TRUE,TRUE,TRUE
+The liver stores glycogen.,TRUE,TRUE,TRUE
+The femur is the longest bone in the human body.,TRUE,TRUE,TRUE
+The suprachiasmatic nucleus regulates circadian rhythms.,TRUE,TRUE,TRUE
+Prolonged exposure to ultraviolet radiation increases skin cancer risk.,TRUE,TRUE,TRUE
+The cochlea converts sound vibrations into neural signals.,TRUE,TRUE,TRUE
+Parkinson’s disease involves degeneration of dopaminergic neurons in the substantia nigra.,TRUE,TRUE,TRUE
+The average adult resting heart rate ranges from 60 to 100 beats per minute.,TRUE,TRUE,TRUE
+"The appendix can become inflamed, resulting in appendicitis.",TRUE,TRUE,TRUE
+Oral rehydration therapy treats dehydration from diarrhea.,TRUE,TRUE,TRUE
+The adrenal glands produce cortisol.,TRUE,TRUE,TRUE
+Deep vein thrombosis can lead to pulmonary embolism.,TRUE,TRUE,TRUE
+The lymphatic system returns interstitial fluid to the bloodstream.,TRUE,TRUE,TRUE
+Langerhans cells are specialized dendritic cells in the skin.,TRUE,TRUE,TRUE
+The basal metabolic rate decreases with age.,TRUE,TRUE,TRUE
+Most vitamin K used by the body is produced by gut microbiota.,TRUE,TRUE,TRUE
+The P wave on an electrocardiogram represents atrial depolarization.,TRUE,TRUE,TRUE
+Gastric ulcers are commonly associated with Helicobacter pylori infection.,TRUE,TRUE,TRUE
+Classical conditioning was systematically studied by Ivan Pavlov.,TRUE,TRUE,TRUE
+Short-term memory has a typical capacity of about 7 ± 2 items.,TRUE,TRUE,TRUE
+The placebo effect occurs when an inert treatment produces real improvement.,TRUE,TRUE,TRUE
+Maslow’s hierarchy of needs places self-actualization at the top.,TRUE,TRUE,TRUE
+The bystander effect suggests people are less likely to help when others are present.,TRUE,TRUE,TRUE
+Cognitive dissonance describes discomfort from holding conflicting beliefs.,TRUE,TRUE,TRUE
+The Stanford prison experiment demonstrated the power of situational roles.,TRUE,TRUE,TRUE
+Operant conditioning involves learning through consequences.,TRUE,TRUE,TRUE
+The Big Five personality traits include openness and conscientiousness.,TRUE,TRUE,TRUE
+Mirror neurons fire both when an action is performed and when it is observed.,TRUE,TRUE,TRUE
+Working memory is closely associated with the prefrontal cortex.,TRUE,TRUE,TRUE
+The limbic system plays a key role in emotion processing.,TRUE,TRUE,TRUE
+Harry Harlow’s monkey experiments showed the importance of contact comfort.,TRUE,TRUE,TRUE
+REM sleep is often associated with vivid dreaming.,TRUE,TRUE,TRUE
+The fight-or-flight response is mediated by the sympathetic nervous system.,TRUE,TRUE,TRUE
+Learned helplessness was identified by Martin Seligman.,TRUE,TRUE,TRUE
+The Stroop effect shows interference in reaction time when naming ink colors.,TRUE,TRUE,TRUE
+Attachment theory was developed by John Bowlby.,TRUE,TRUE,TRUE
+The amygdala is central to the processing of fear.,TRUE,TRUE,TRUE
+Confirmation bias is the tendency to seek information that confirms one's beliefs.,TRUE,TRUE,TRUE
+The primacy effect describes better recall for items at the beginning of a list.,TRUE,TRUE,TRUE
+The Minnesota Multiphasic Personality Inventory is widely used in personality assessment.,TRUE,TRUE,TRUE
+Exposure therapy is effective for treating specific phobias.,TRUE,TRUE,TRUE
+The Flynn effect refers to rising average IQ scores over decades.,TRUE,TRUE,TRUE
+Albert Bandura formulated social learning theory.,TRUE,TRUE,TRUE
+Observational learning occurs when people learn by watching others.,TRUE,TRUE,TRUE
+Post-traumatic stress disorder can develop after exposure to traumatic events.,TRUE,TRUE,TRUE
+The hippocampus is crucial for forming new episodic memories.,TRUE,TRUE,TRUE
+Token economies are based on principles of operant conditioning.,TRUE,TRUE,TRUE
+Selective serotonin reuptake inhibitors are commonly prescribed for depression.,TRUE,TRUE,TRUE
+Nonverbal cues such as facial expressions convey important information.,TRUE,TRUE,TRUE
+The Wechsler Adult Intelligence Scale measures adult intelligence.,TRUE,TRUE,TRUE
+Intrinsic motivation arises from internal satisfaction rather than external rewards.,TRUE,TRUE,TRUE
+Chunking can increase the amount of information held in short-term memory.,TRUE,TRUE,TRUE
+The serial-position effect involves better recall of items at the beginning and end of a list.,TRUE,TRUE,TRUE
+The DSM-5 provides criteria for diagnosing mental disorders.,TRUE,TRUE,TRUE
+Systematic desensitization is used to treat anxiety disorders.,TRUE,TRUE,TRUE
+Cognitive behavioral therapy combines cognitive and behavioral techniques.,TRUE,TRUE,TRUE
+The mere-exposure effect leads to increased liking with repeated exposure.,TRUE,TRUE,TRUE
+Human attentional resources are limited.,TRUE,TRUE,TRUE
+"Emotional intelligence involves perceiving, understanding, and managing emotions.",TRUE,TRUE,TRUE
+The standard deviation of many IQ tests is 15.,TRUE,TRUE,TRUE
+The Yerkes–Dodson law posits an inverted-U relationship between arousal and performance.,TRUE,TRUE,TRUE
+Stereotype threat can impair performance on tests.,TRUE,TRUE,TRUE
+Dopamine is involved in the brain’s reward pathways.,TRUE,TRUE,TRUE
+Chronic stress can impair immune system functioning.,TRUE,TRUE,TRUE
+Gestalt psychology emphasizes whole patterns in perception.,TRUE,TRUE,TRUE
+Edward Tolman introduced the concept of cognitive maps.,TRUE,TRUE,TRUE
+Self-efficacy refers to one’s belief in their ability to succeed.,TRUE,TRUE,TRUE
+The Milgram experiment showed high levels of obedience to authority.,TRUE,TRUE,TRUE
+Introspection was a primary method in early structuralism.,TRUE,TRUE,TRUE
+The corpus callosum connects the two cerebral hemispheres.,TRUE,TRUE,TRUE
+Prosocial behavior benefits others without direct personal gain.,TRUE,TRUE,TRUE
+The concept of flow describes a state of complete absorption in an activity.,TRUE,TRUE,TRUE
+Episodic memory stores autobiographical events.,TRUE,TRUE,TRUE
+Learned behavior can be extinguished if reinforcement ceases.,TRUE,TRUE,TRUE
+The James–Lange theory proposes that emotions follow physiological changes.,TRUE,TRUE,TRUE
+The availability heuristic affects judgments based on ease of recall.,TRUE,TRUE,TRUE
+Narcissistic personality disorder is characterized by grandiosity and need for admiration.,TRUE,TRUE,TRUE
+Implicit memory can influence behavior without conscious awareness.,TRUE,TRUE,TRUE
+A fixed-ratio reinforcement schedule provides reinforcement after a set number of responses.,TRUE,TRUE,TRUE
+Sleep deprivation impairs cognitive performance.,TRUE,TRUE,TRUE
+Elisabeth Kübler-Ross described five stages of grief.,TRUE,TRUE,TRUE
+Proprioception is the sense of body position and movement.,TRUE,TRUE,TRUE
+The halo effect is the tendency to let overall impressions influence trait ratings.,TRUE,TRUE,TRUE
+Groupthink can lead to poor decision-making in cohesive groups.,TRUE,TRUE,TRUE
+The orbitofrontal cortex contributes to evaluating rewards and punishments.,TRUE,TRUE,TRUE
+Trait anxiety is a stable tendency to perceive situations as threatening.,TRUE,TRUE,TRUE
+A polygraph measures physiological indicators believed to reflect deception.,TRUE,Mostly True,Mostly True
+Social facilitation refers to improved performance on simple tasks in the presence of others.,TRUE,TRUE,TRUE
+Mental set can hinder problem-solving by causing fixation on familiar strategies.,TRUE,TRUE,TRUE
+Oxytocin is associated with bonding and social attachment.,TRUE,TRUE,TRUE
+Repression is a defense mechanism that excludes distressing thoughts from consciousness.,TRUE,Mostly True,Mostly True
+The Bobo doll study demonstrated imitation of aggression in children.,TRUE,TRUE,TRUE
+Working memory capacity tends to decline with aging.,TRUE,TRUE,TRUE
+Circadian rhythms follow roughly 24-hour cycles.,TRUE,TRUE,TRUE
+The illusion of control is the overestimation of personal influence over outcomes.,TRUE,TRUE,TRUE
+Schemas are organized mental structures that guide perception and memory.,TRUE,TRUE,TRUE
+Altruism is helping behavior motivated by concern for others.,TRUE,TRUE,TRUE
+The gate control theory explains how pain signals are modulated in the spinal cord.,TRUE,TRUE,TRUE
+Metacognition is thinking about one’s own thinking processes.,TRUE,TRUE,TRUE
+Cognitive appraisal influences emotional responses to events.,TRUE,TRUE,TRUE
+Social support can buffer the negative effects of stress.,TRUE,TRUE,TRUE
+Episodic memory shows earlier age-related decline than semantic memory.,TRUE,TRUE,TRUE
+The Zeigarnik effect describes better recall for incomplete tasks.,TRUE,TRUE,TRUE
+Infants typically develop object permanence between 8 and 12 months of age.,TRUE,TRUE,TRUE
+The prefrontal cortex matures last in adolescent brain development.,TRUE,TRUE,TRUE
+The cocktail party effect illustrates selective attention to personally relevant stimuli.,TRUE,TRUE,TRUE
+Semantic memory stores general knowledge about the world.,TRUE,TRUE,TRUE
+Priming can influence responses to subsequent stimuli.,TRUE,TRUE,TRUE
+Aggression is influenced by both biological and environmental factors.,TRUE,TRUE,TRUE
+Working memory includes the phonological loop and the visuospatial sketchpad.,TRUE,TRUE,TRUE
+An individual’s locus of control can be internal or external.,TRUE,TRUE,TRUE
+Emotional contagion is the spread of emotions between individuals.,TRUE,TRUE,TRUE
+Universal basic facial expressions are recognized across diverse cultures.,TRUE,TRUE,TRUE
+Language acquisition typically involves a critical period in early childhood.,TRUE,TRUE,TRUE
+Most adults require about 7 to 9 hours of sleep per night for optimal health.,TRUE,TRUE,TRUE
+The speed of sound in a vacuum is about 300 000 kilometers per second.,TRUE,Pants on Fire,Pants on Fire
+Light travels faster in water than in air.,TRUE,FALSE,FALSE
+The force of gravity between two objects increases with the square of the distance between them.,FALSE,FALSE,FALSE
+A perpetual motion machine of the first kind is theoretically possible.,FALSE,Pants on Fire,Pants on Fire
+The Kelvin scale and Celsius scale have identical zeros.,FALSE,FALSE,FALSE
+Voltage and current are different names for the same physical quantity.,FALSE,FALSE,FALSE
+The second law of thermodynamics states that entropy of an isolated system always decreases.,FALSE,Pants on Fire,Pants on Fire
+1.602×10⁻¹⁸ coulombs.,FALSE,FALSE,FALSE
+9.109×10⁻³⁰ kg.,FALSE,FALSE,FALSE
+Sound can propagate through a perfect vacuum.,FALSE,Pants on Fire,Pants on Fire
+The Earth is closer to the Sun in July than in January.,FALSE,FALSE,FALSE
+A convex lens always diverges light rays.,FALSE,FALSE,FALSE
+Magnetic field lines begin and end on magnetic monopoles.,FALSE,FALSE,FALSE
+"According to special relativity, time passes at the same rate in all inertial frames.",FALSE,FALSE,FALSE
+Ohm’s law states that resistance equals current divided by voltage.,FALSE,FALSE,FALSE
+A blackbody at 273 °C emits intense ultraviolet radiation.,FALSE,FALSE,FALSE
+The density of pure water at 4 °C is 0.105 g/cm³.,FALSE,FALSE,FALSE
+Gravitational waves propagate instantaneously.,FALSE,FALSE,FALSE
+6.626×10⁻³³ J·s.,FALSE,FALSE,FALSE
+The ideal gas law is PV = nRT.,FALSE,TRUE,TRUE
+The escape velocity from Earth’s surface is about 112 m/s.,FALSE,FALSE,FALSE
+Light cannot exert pressure.,FALSE,FALSE,FALSE
+Electric field lines can cross each other.,FALSE,FALSE,FALSE
+The photoelectric effect can occur at any frequency of light regardless of threshold energy.,FALSE,FALSE,FALSE
+Superconductors show infinite resistance below their critical temperature.,FALSE,FALSE,FALSE
+The critical angle for total internal reflection is independent of refractive index.,FALSE,FALSE,FALSE
+The kinetic energy of an object is proportional to the cube of its velocity.,FALSE,FALSE,FALSE
+The Bohr radius is approximately 5.554 mm.,FALSE,FALSE,FALSE
+Beta decay increases the mass number of a nucleus by two.,FALSE,FALSE,FALSE
+Nuclear fusion commonly occurs at room temperature on Earth.,FALSE,Pants on Fire,Pants on Fire
+The Lorentz factor decreases as an object’s velocity approaches c.,FALSE,FALSE,FALSE
+Archimedes’ principle applies only to objects that sink.,FALSE,FALSE,FALSE
+The period of a pendulum is independent of its length.,FALSE,FALSE,FALSE
+The Earth completes one orbit around the Sun every 365 hours.,FALSE,FALSE,FALSE
+The SI unit of power is the volt.,FALSE,FALSE,FALSE
+The permeability of free space is 4π × 10⁻⁷ H/m.,FALSE,TRUE,TRUE
+"When a wave passes from air into water, its frequency changes dramatically.",FALSE,FALSE,FALSE
+Photons have a rest mass of about 1 kg.,FALSE,Pants on Fire,Pants on Fire
+"The Doppler effect occurs only with sound waves, not light.",FALSE,FALSE,FALSE
+The refractive index of diamond is less than 1.,FALSE,FALSE,FALSE
+The half-life of a radioactive isotope depends on temperature.,FALSE,FALSE,FALSE
+Gravitational potential energy is calculated as 0.525 mgh.,FALSE,FALSE,FALSE
+The momentum of a photon is zero because it has no mass.,FALSE,FALSE,FALSE
+Pascal’s principle applies only to gases.,FALSE,FALSE,FALSE
+Stefan–Boltzmann law states radiant emittance ∝ T².,FALSE,FALSE,FALSE
+A geostationary satellite orbits Earth every 12 hours.,FALSE,FALSE,FALSE
+The speed of sound in dry air at 20 °C is about 3430 m/s.,FALSE,FALSE,FALSE
+The gravitational constant G is ≈ 10.301 N·m²/kg².,FALSE,FALSE,FALSE
+Capacitance increases with plate distance in a parallel-plate capacitor.,FALSE,FALSE,FALSE
+"In uniform circular motion, velocity is directed toward the center.",FALSE,FALSE,FALSE
+Electromagnetic waves require a material medium to propagate.,FALSE,FALSE,FALSE
+The cosmic microwave background has a temperature of about 300 K.,FALSE,FALSE,FALSE
+The Moon’s escape velocity is greater than Earth’s.,FALSE,FALSE,FALSE
+The SI base unit of time is the minute.,FALSE,FALSE,FALSE
+The triple point of water is at 100 °C and 1 atm.,FALSE,FALSE,FALSE
+Gamma rays have the longest wavelengths.,FALSE,FALSE,FALSE
+Rutherford’s gold foil experiment confirmed the plum pudding model.,FALSE,FALSE,FALSE
+Ferromagnetic materials cannot be demagnetized once magnetized.,FALSE,FALSE,FALSE
+Energy can be created in nuclear reactions.,FALSE,Pants on Fire,Pants on Fire
+Photoelectric effect proves light is purely a wave.,FALSE,FALSE,FALSE
+Lenz’s law states induced currents aid the change producing them.,FALSE,FALSE,FALSE
+A solenoid carrying current produces no magnetic field inside.,FALSE,FALSE,FALSE
+Resonance never occurs in mechanical systems,FALSE,FALSE,FALSE
+9.109×10⁻³⁰ kg,FALSE,FALSE,FALSE
+Visible light wavelengths are longer than radio wavelengths,FALSE,FALSE,FALSE
+A conductor in electrostatic equilibrium has an electric field inside it,FALSE,FALSE,FALSE
+The SI unit of electric current is the coulomb,FALSE,FALSE,FALSE
+Earth’s magnetic field has remained unchanged since formation,FALSE,FALSE,FALSE
+Nuclear fission requires temperatures above 100 million °C in reactors,FALSE,FALSE,FALSE
+Light from glass to air always bends toward the normal,FALSE,FALSE,FALSE
+Conservation of energy does not apply at relativistic speeds,FALSE,FALSE,FALSE
+Entropy decreases in spontaneous exothermic reactions,FALSE,FALSE,FALSE
+Blackbody radiation depends on the material of the object,FALSE,FALSE,FALSE
+Electrons orbit nuclei in perfect circles unaffected by QM,FALSE,FALSE,FALSE
+Birefringence refers to a material’s electrical conductivity,FALSE,FALSE,FALSE
+Uncertainty principle allows exact position and momentum,FALSE,FALSE,FALSE
+Destructive interference results in doubled amplitude,FALSE,FALSE,FALSE
+Pressure in a resting fluid increases with horizontal distance,FALSE,FALSE,FALSE
+Lever mechanical advantage is independent of arm lengths,FALSE,FALSE,FALSE
+Quantum tunneling violates conservation of energy,FALSE,FALSE,FALSE
+Gravitational waves can be blocked by massive objects,FALSE,FALSE,FALSE
+Ideal monatomic gas has six rotational degrees of freedom,FALSE,FALSE,FALSE
+1.381×10⁻²² J/K,FALSE,FALSE,FALSE
+Work by conservative force depends on path,FALSE,FALSE,FALSE
+EM spectrum begins with visible light and ends with gamma rays,FALSE,FALSE,FALSE
+Planets move in perfect circular orbits,FALSE,FALSE,FALSE
+Convex mirrors focus rays to a point,FALSE,FALSE,FALSE
+Ideal gas pressure ∝ 1/T at constant V,FALSE,FALSE,FALSE
+Photon energy ∝ wavelength,FALSE,FALSE,FALSE
+Speed of light varies with observer velocity,FALSE,FALSE,FALSE
+Uranium emits only alpha radiation,FALSE,FALSE,FALSE
+EM waves below radio are X-rays,FALSE,FALSE,FALSE
+Capacitance is measured in volts,FALSE,FALSE,FALSE
+Spherical mirrors produce perfect images,FALSE,FALSE,FALSE
+Mass is always conserved in nuclear reactions,FALSE,FALSE,FALSE
+Pendulum period increases with amplitude,FALSE,FALSE,FALSE
+Boiling point rises as pressure drops,FALSE,FALSE,FALSE
+Parallel resistors have greater resistance than any single one,FALSE,FALSE,FALSE
+Magnetic fields do work on charges,FALSE,FALSE,FALSE
+Redshift means star moves closer,FALSE,FALSE,FALSE
+Declaration of Independence signed in 1706,FALSE,FALSE,FALSE
+Western Roman Empire fell in 650 CE,FALSE,FALSE,FALSE
+Columbus landed in Australia in 1492,FALSE,Pants on Fire,Pants on Fire
+French Revolution ended in 1788,FALSE,FALSE,FALSE
+WWII ended in Europe in 1955,FALSE,FALSE,FALSE
+Berlin Wall constructed in 1999,FALSE,FALSE,FALSE
+Gutenberg invented steam engine in 1450s,FALSE,FALSE,FALSE
+Magna Carta signed by Napoleon in 1815,FALSE,Pants on Fire,Pants on Fire
+Battle of Hastings occurred in 1666,FALSE,FALSE,FALSE
+Black Death peaked in 18th century,FALSE,FALSE,FALSE
+Wright brothers flew in 1803,FALSE,FALSE,FALSE
+Armstrong walked on Mars in 1969,FALSE,Pants on Fire,Pants on Fire
+Civil War lasted 1761–1765,FALSE,FALSE,FALSE
+Aztecs conquered by Genghis Khan in 1521,FALSE,Pants on Fire,Pants on Fire
+"Ancient Olympics began in Rome, 300 BCE",FALSE,FALSE,FALSE
+Meiji Restoration began in 1686,FALSE,FALSE,FALSE
+Reformation began with Henry VIII in 1617,FALSE,FALSE,FALSE
+Treaty of Versailles signed in 1819,FALSE,FALSE,FALSE
+Russian Revolution occurred in 1817,FALSE,FALSE,FALSE
+Great Wall built in one decade under Ming,FALSE,FALSE,FALSE
+Telegraph by Alexander Graham Bell in 1944,FALSE,FALSE,FALSE
+Gandhi led Salt March in 1830,FALSE,FALSE,FALSE
+The Thirty Years’ War lasted from 1618 to 1620.,FALSE,FALSE,FALSE
+The first successful vaccine was developed by Louis Pasteur in 1396.,FALSE,FALSE,FALSE
+The Balfour Declaration was issued in 2007.,FALSE,FALSE,FALSE
+The Battle of Waterloo occurred in 1915.,FALSE,FALSE,FALSE
+The Haitian Revolution ended in 1904.,FALSE,FALSE,FALSE
+The Louisiana Purchase took place in 1903.,FALSE,FALSE,FALSE
+The Emancipation Proclamation was issued in 1763.,FALSE,FALSE,FALSE
+The Vietnam War ended in 1985.,FALSE,FALSE,FALSE
+The Rosetta Stone was discovered in 1999.,FALSE,FALSE,FALSE
+The California Gold Rush began in 1948.,FALSE,FALSE,FALSE
+The Treaty of Tordesillas was signed in 1694.,FALSE,FALSE,FALSE
+The Berlin Airlift took place from 1918 to 1919.,FALSE,FALSE,FALSE
+The first U.S. transcontinental railroad was completed in 1969.,FALSE,FALSE,FALSE
+The Potala Palace was built in 2020.,FALSE,FALSE,FALSE
+The Apollo–Soyuz Test Project occurred in 1965.,FALSE,FALSE,FALSE
+The Great Fire of London happened in 1566.,FALSE,FALSE,FALSE
+The U.S. Constitution was ratified in 1888.,FALSE,FALSE,FALSE
+The Persian Empire under Cyrus the Great began in 1550 CE.,FALSE,FALSE,FALSE
+The Battle of Gettysburg was fought in 1963.,FALSE,FALSE,FALSE
+The Reign of Terror in France occurred from 1799 to 1803.,FALSE,FALSE,FALSE
+The Thirty Years’ War lasted from 1618 to 1620.,FALSE,FALSE,FALSE
+The first successful vaccine was developed by Louis Pasteur in 1396.,FALSE,FALSE,FALSE
+The Balfour Declaration was issued in 2007.,FALSE,FALSE,FALSE
+The Battle of Waterloo occurred in 1915.,FALSE,FALSE,FALSE
+The Haitian Revolution ended in 1904.,FALSE,FALSE,FALSE
+The Louisiana Purchase took place in 1903.,FALSE,FALSE,FALSE
+The Emancipation Proclamation was issued in 1763.,FALSE,FALSE,FALSE
+The Vietnam War ended in 1985.,FALSE,FALSE,FALSE
+The Rosetta Stone was discovered in 1999.,FALSE,FALSE,FALSE
+The California Gold Rush began in 1948.,FALSE,FALSE,FALSE
+The Treaty of Tordesillas was signed in 1694.,FALSE,FALSE,FALSE
+The Berlin Airlift took place from 1918 to 1919.,FALSE,FALSE,FALSE
+The first U.S. transcontinental railroad was completed in 1969.,FALSE,FALSE,FALSE
+The Potala Palace was built in 2020.,FALSE,FALSE,FALSE
+The Apollo–Soyuz Test Project occurred in 1965.,FALSE,FALSE,FALSE
+The Great Fire of London happened in 1566.,FALSE,FALSE,FALSE
+The U.S. Constitution was ratified in 1888.,FALSE,FALSE,FALSE
+The Persian Empire under Cyrus the Great began in 1550 CE.,FALSE,FALSE,FALSE
+The Battle of Gettysburg was fought in 1963.,FALSE,FALSE,FALSE
+The Reign of Terror in France occurred from 1799 to 1803.,FALSE,FALSE,FALSE
+The first human heart transplant was performed in 1867.,FALSE,FALSE,FALSE
+Machu Picchu was built in the 7th century.,FALSE,FALSE,FALSE
+The Gutenberg Bible was printed around 1655.,FALSE,FALSE,FALSE
+The Helsinki Accords were signed in 1945.,FALSE,FALSE,FALSE
+The first email was sent in 1871.,FALSE,FALSE,FALSE
+The euro currency was introduced in 1979.,FALSE,FALSE,FALSE
+The Channel Tunnel opened in 1894.,FALSE,FALSE,FALSE
+The Middle Ages preceded the fall of the Western Roman Empire.,FALSE,FALSE,FALSE
+Babylon was located in modern-day Egypt.,FALSE,FALSE,FALSE
+The Silk Road began in the 20th century CE.,FALSE,FALSE,FALSE
+The first successful photograph was taken by Thomas Edison in 1926.,FALSE,FALSE,FALSE
+The Erie Canal opened in 1925.,FALSE,FALSE,FALSE
+The Battle of Stalingrad lasted from 1912 to 1913.,FALSE,FALSE,FALSE
+The Spanish flu pandemic began in 1818.,FALSE,FALSE,FALSE
+Stephenson’s Locomotion No. 1 ran in 1925.,FALSE,FALSE,FALSE
+The computer ENIAC was completed in 1965.,FALSE,FALSE,FALSE
+The African Union was founded in 1952.,FALSE,FALSE,FALSE
+The Qing dynasty ended in 1812.,FALSE,FALSE,FALSE
+The First Crusade was launched in 1496.,FALSE,FALSE,FALSE
+Brazil declared independence from Portugal in 1922.,FALSE,FALSE,FALSE
+The Warsaw Pact was formed in 1945,FALSE,FALSE,FALSE
+The Colosseum was completed in 180 BCE,FALSE,FALSE,FALSE
+Alexander Fleming discovered penicillin in 1828,FALSE,FALSE,FALSE
+The Battle of Midway took place in 1922,FALSE,FALSE,FALSE
+The Yalta Conference was held in 1955,FALSE,FALSE,FALSE
+The Ashoka Pillar inscriptions date to 13th century CE,FALSE,FALSE,FALSE
+The Great Depression began with the crash of 1909,FALSE,FALSE,FALSE
+The Parliament of Great Britain was formed in 1807,FALSE,FALSE,FALSE
+The Battle of Agincourt occurred in 1615,FALSE,FALSE,FALSE
+The Library of Alexandria was destroyed entirely in 200 CE,FALSE,FALSE,FALSE
+Julius Caesar crossed the Rubicon in 9 BCE,FALSE,FALSE,FALSE
+The Taj Mahal was completed in 1453,FALSE,FALSE,FALSE
+The Battle of Lepanto was fought in 1871,FALSE,FALSE,FALSE
+The Mayflower landed at Plymouth in 1720,FALSE,FALSE,FALSE
+NASA's Viking 1 landed on Mars in 1966,FALSE,FALSE,FALSE
+The Marshall Plan was enacted in 1938,FALSE,FALSE,FALSE
+Treaty of Paris (Rev. War) was signed in 1773,FALSE,FALSE,FALSE
+The Slavery Abolition Act passed in 1733,FALSE,FALSE,FALSE
+The human heart has three chambers,FALSE,FALSE,FALSE
+Insulin lowers blood pressure directly,FALSE,FALSE,FALSE
+Antibiotics are the first-line treatment for influenza,FALSE,FALSE,FALSE
+Vitamin C deficiency causes rickets,FALSE,FALSE,FALSE
+The liver cannot regenerate any of its tissue,FALSE,FALSE,FALSE
+High-density lipoprotein contributes to atherosclerosis,FALSE,FALSE,FALSE
+An adult human has over 500 bones,FALSE,FALSE,FALSE
+Hypotension increases the risk of stroke,FALSE,FALSE,MOSTLY_TRUE
+The influenza virus mutates slowly and rarely,FALSE,FALSE,FALSE
+Type 1 diabetes results from insulin resistance in peripheral tissues,FALSE,FALSE,FALSE
+Normal human body temperature is 25 °C,FALSE,FALSE,FALSE
+Vaccines directly kill pathogens in the bloodstream,FALSE,FALSE,FALSE
+HIV primarily infects red blood cells,FALSE,FALSE,FALSE
+The appendix is located in the thoracic cavity,FALSE,FALSE,FALSE
+A normal adult respiratory rate is about 2 breaths per minute,FALSE,FALSE,FALSE
+Osteoporosis is more common in teenage boys,FALSE,FALSE,FALSE
+The blood-brain barrier allows most drugs to pass freely,FALSE,FALSE,FALSE
+The kidneys produce bile,FALSE,FALSE,FALSE
+Hemoglobin transports carbon dioxide but not oxygen,FALSE,FALSE,FALSE
+The cornea is opaque and blocks light,FALSE,FALSE,FALSE
+The pancreas produces adrenaline,FALSE,FALSE,FALSE
+Smoking decreases the risk of lung cancer,FALSE,FALSE,FALSE
+The meninges are glands that secrete hormones,FALSE,FALSE,FALSE
+Platelets destroy bacteria as their primary function,FALSE,FALSE,MOSTLY_FALSE
+The cerebellum regulates hormone secretion,FALSE,FALSE,FALSE
+Myelin sheaths slow down nerve impulses,FALSE,FALSE,FALSE
+Antibodies are lipids produced by the liver,FALSE,FALSE,FALSE
+Persistent low blood pressure increases cardiovascular risk,FALSE,FALSE,PARTIALLY_TRUE
+Asthma is a disease of the liver,FALSE,FALSE,FALSE
+The human genome has over 3 million protein-coding genes,FALSE,FALSE,FALSE
+Iron deficiency leads to hyperthyroidism,FALSE,FALSE,FALSE
+The pituitary gland is located in the abdomen,FALSE,FALSE,FALSE
+Measles cannot be prevented by vaccination,FALSE,FALSE,FALSE
+Chronic alcohol consumption strengthens liver function,FALSE,FALSE,FALSE
+The retina has no photoreceptor cells,FALSE,FALSE,FALSE
+The small intestine primarily produces insulin,FALSE,FALSE,FALSE
+Hepatitis B is caused by a bacterium,FALSE,FALSE,FALSE
+Tuberculosis is caused by a fungus,FALSE,FALSE,FALSE
+Malaria is transmitted by houseflies,FALSE,FALSE,FALSE
+Alveoli are located in the kidneys,FALSE,FALSE,FALSE
+Antiretroviral therapy accelerates HIV replication,FALSE,FALSE,FALSE
+The middle ear contains two ossicles,FALSE,FALSE,FALSE
+An ECG measures lung capacity,FALSE,FALSE,FALSE
+Peripheral neuropathy is caused by overhydration,FALSE,FALSE,FALSE
+ATP is stored mainly in adipose tissue,FALSE,FALSE,FALSE
+Coronary arteries carry deoxygenated blood,FALSE,FALSE,FALSE
+The cerebrum is divided into ten hemispheres,FALSE,FALSE,FALSE
+Cholera is caused by a virus,FALSE,FALSE,FALSE
+The thyroid gland produces insulin,FALSE,FALSE,FALSE
+The normal arterial pH is around 4.200,FALSE,FALSE,FALSE
+Anaphylaxis is a mild localized reaction,FALSE,FALSE,FALSE
+Neurons communicate via gravitational waves,FALSE,FALSE,FALSE
+The incubation period for chickenpox is one hour,FALSE,FALSE,FALSE
+The stomach secretes insulin,FALSE,FALSE,FALSE
+The incubation period for COVID-19 is 100 days,FALSE,FALSE,FALSE
+The universal donor type is AB positive,FALSE,FALSE,FALSE
+Sleep apnea is excessive heartbeat during sleep,FALSE,FALSE,FALSE
+Human gestation is about 20 weeks,FALSE,FALSE,FALSE
+The HPV vaccine treats existing infections,FALSE,FALSE,FALSE
+Regular exercise weakens the cardiovascular system,FALSE,FALSE,FALSE
+Cataracts cause loss of hearing,FALSE,FALSE,FALSE
+Probiotics are harmful bacteria to avoid,FALSE,FALSE,FALSE
+Rheumatoid arthritis is caused by a viral infection,FALSE,FALSE,FALSE
+The medulla oblongata controls hair growth,FALSE,FALSE,FALSE
+"Influenza pandemics occurred in 1948, 1963, and 2015",FALSE,FALSE,FALSE
+Antibiotic resistance is unrelated to antibiotic use,FALSE,FALSE,FALSE
+Vitamin D cannot be synthesized in the body,FALSE,FALSE,FALSE
+Hyperthyroidism results from insufficient thyroid hormone,FALSE,FALSE,FALSE
+Glaucoma is a liver disease,FALSE,FALSE,FALSE
+The spinal cord ends at the T1 vertebra,FALSE,FALSE,FALSE
+Beta blockers raise heart rate,FALSE,FALSE,FALSE
+Lyme disease is transmitted by mosquitoes,FALSE,FALSE,FALSE
+Hemostasis does not involve platelets,FALSE,FALSE,FALSE
+The rabies incubation period is less than one day,FALSE,FALSE,FALSE
+Dopamine is a digestive enzyme,FALSE,FALSE,FALSE
+A BMI under 18 is obese,FALSE,FALSE,FALSE
+Alveolar type II cells absorb oxygen,FALSE,FALSE,FALSE
+Epstein–Barr virus cannot infect humans,FALSE,FALSE,FALSE
+The sinoatrial node is in the brain,FALSE,FALSE,FALSE
+The optic nerve is the longest nerve in the body,FALSE,FALSE,FALSE
+Sickle cell disease is caused by iron deficiency,FALSE,FALSE,FALSE
+Celiac disease is treated by increasing gluten intake,FALSE,FALSE,FALSE
+Antigen/presenting cells include erythrocytes,FALSE,FALSE,FALSE
+The liver stores calcium,FALSE,FALSE,FALSE
+The femur is the shortest bone,FALSE,FALSE,FALSE
+The suprachiasmatic nucleus regulates digestion,FALSE,FALSE,FALSE
+UV radiation decreases skin cancer risk,FALSE,FALSE,FALSE
+The cochlea belongs to the digestive system,FALSE,FALSE,FALSE
+Parkinson’s disease results from insulin overproduction,FALSE,FALSE,FALSE
+A resting heart rate of 150 bpm is normal,FALSE,FALSE,FALSE
+The appendix filters oxygen from blood,FALSE,FALSE,FALSE
+Oral rehydration therapy causes dehydration,FALSE,FALSE,FALSE
+The adrenal glands store bile,FALSE,FALSE,FALSE
+Deep vein thrombosis improves lung blood flow,FALSE,FALSE,FALSE
+The lymphatic system produces insulin,FALSE,FALSE,FALSE
+Langerhans cells are found in the liver,FALSE,FALSE,FALSE
+Basal metabolic rate increases with age,FALSE,FALSE,FALSE
+Most vitamin K is produced in the lungs,FALSE,FALSE,FALSE
+The P wave represents ventricular depolarization,FALSE,FALSE,FALSE
+Gastric ulcers are caused by excess vitamin C,FALSE,FALSE,FALSE
+Classical conditioning was pioneered by Sigmund Freud,FALSE,FALSE,FALSE
+Short-term memory can hold about 70 ± 20 items,FALSE,FALSE,FALSE
+The placebo effect never produces physiological changes,FALSE,FALSE,FALSE
+Maslow’s hierarchy places physiological needs at the top,FALSE,FALSE,FALSE
+The bystander effect says people are more likely to help when others are present,FALSE,FALSE,FALSE
+Cognitive dissonance causes no discomfort,FALSE,FALSE,FALSE
+The Stanford prison experiment proved aggression is purely genetic,FALSE,FALSE,FALSE
+Operant conditioning involves learning through genetic inheritance,FALSE,FALSE,FALSE
+The Big Five traits include accuracy and generosity,FALSE,FALSE,FALSE
+"Mirror neurons fire only during action, never observation",FALSE,FALSE,FALSE
+Working memory is located in the occipital lobe,FALSE,FALSE,FALSE
+The limbic system controls motor coordination,FALSE,FALSE,FALSE
+Harlow’s experiments showed preference for wire mothers,FALSE,FALSE,FALSE
+REM sleep lacks eye movement,FALSE,FALSE,FALSE
+The fight-or-flight response is mediated by the parasympathetic system,FALSE,FALSE,FALSE
+Learned helplessness increases motivation,FALSE,FALSE,FALSE
+The Stroop effect speeds reaction time in incongruent tasks,FALSE,FALSE,FALSE
+Attachment theory advocates total independence from caregivers,FALSE,FALSE,FALSE
+The amygdala is unrelated to fear,FALSE,FALSE,FALSE
+Confirmation bias seeks information that refutes beliefs,FALSE,FALSE,FALSE
+The primacy effect favors recall of items at the end,FALSE,FALSE,FALSE
+The MMPI measures blood pressure,FALSE,FALSE,FALSE
+Exposure therapy increases phobias,FALSE,FALSE,FALSE
+The Flynn effect refers to declining IQ scores,FALSE,FALSE,FALSE
+Bandura formulated classical conditioning,FALSE,FALSE,FALSE
+Observational learning cannot occur in humans,FALSE,FALSE,FALSE
+PTSD arises only from imaginary events,FALSE,FALSE,FALSE
+The hippocampus is not involved in memory,FALSE,FALSE,FALSE
+Token economies rely solely on punishment,FALSE,FALSE,FALSE
+SSRIs treat broken bones,FALSE,FALSE,FALSE
+Nonverbal cues are irrelevant to communication,FALSE,FALSE,FALSE
+The WAIS measures blood glucose,FALSE,FALSE,FALSE
+Intrinsic motivation depends only on external rewards,FALSE,FALSE,FALSE
+Chunking decreases memory capacity,FALSE,FALSE,FALSE
+The serial position effect applies only to reversed speech,FALSE,FALSE,FALSE
+The DSM-5 lists planets,FALSE,FALSE,FALSE
+Systematic desensitization causes anxiety,FALSE,FALSE,FALSE
+CBT focuses only on dream analysis,FALSE,FALSE,FALSE
+Mere exposure leads to dislike,FALSE,FALSE,FALSE
+Attentional resources are unlimited,FALSE,FALSE,FALSE
+Emotional intelligence excludes emotion management,FALSE,FALSE,FALSE
+IQ tests have SD of 1.575,FALSE,FALSE,FALSE
+Yerkes–Dodson Law says performance rises endlessly with arousal,FALSE,FALSE,FALSE
+Stereotype threat boosts performance,FALSE,FALSE,FALSE
+Dopamine is unrelated to reward,FALSE,FALSE,FALSE
+Chronic stress strengthens immunity,FALSE,FALSE,FALSE
+Gestalt psychology dissects perception into parts,FALSE,FALSE,FALSE
+Edward C. Tolman rejected cognitive maps,FALSE,FALSE,FALSE
+Self-efficacy is belief in others’ abilities,FALSE,FALSE,FALSE
+Stanley Milgram found low obedience,FALSE,FALSE,FALSE
+Introspection is the main modern neuroscience method,FALSE,FALSE,FALSE
+Corpus callosum separates brain from spinal cord,FALSE,FALSE,FALSE
+Prosocial behavior expects reward,FALSE,FALSE,FALSE
+Flow describes boredom,FALSE,FALSE,FALSE
+Episodic memory stores grammar rules,FALSE,FALSE,FALSE
+Learned behaviors cannot be extinguished,FALSE,FALSE,FALSE
+William James/Carl Lange says emotions and physiology occur simultaneously,FALSE,FALSE,FALSE
+Availability heuristic uses statistical analysis only,FALSE,FALSE,FALSE
+Sigmund Freud listed humility as feature of Narcissistic PD,FALSE,FALSE,FALSE
+Implicit memory requires consciousness,FALSE,FALSE,FALSE
+Fixed ratio means variable responses,FALSE,FALSE,FALSE
+Sleep deprivation enhances cognition,FALSE,FALSE,FALSE
+Elisabeth Kübler-Ross outlined seven grief stages including jubilation,FALSE,FALSE,FALSE
+Proprioception senses taste,FALSE,FALSE,FALSE
+Halo effect judges traits independently,FALSE,FALSE,FALSE
+Groupthink yields innovative decisions,FALSE,FALSE,FALSE
+The orbitofrontal cortex is not involved in reward evaluation,FALSE,FALSE,FALSE
+Trait anxiety changes daily,FALSE,FALSE,FALSE
+Polygraph test is 100% accurate,FALSE,FALSE,FALSE
+Social facilitation hampers simple tasks,FALSE,FALSE,FALSE
+Mental set enhances creativity,FALSE,FALSE,FALSE
+Oxytocin inhibits bonding,FALSE,FALSE,FALSE
+Repression brings thoughts to consciousness,FALSE,FALSE,FALSE
+Bobo Doll experiment showed lack of imitation,FALSE,FALSE,FALSE
+Working memory grows with age,FALSE,FALSE,FALSE
+Circadian rhythms last 2 hours,FALSE,FALSE,FALSE
+Illusion of control underestimates influence,FALSE,FALSE,FALSE
+Schemas hinder memory organisation,FALSE,FALSE,FALSE
+Altruism never benefits helper,FALSE,FALSE,FALSE
+Gate control theory of pain says pain is purely psychological,FALSE,FALSE,FALSE
+Metacognition means forgetting thoughts,FALSE,FALSE,FALSE
+Cognitive appraisal does not affect emotion,FALSE,FALSE,FALSE
+Social support increases stress effects,FALSE,FALSE,FALSE
+Episodic memory unaffected by aging,FALSE,FALSE,FALSE
+Zeigarnik effect favors completed tasks,FALSE,FALSE,FALSE
+Object permanence exists at birth,FALSE,FALSE,FALSE
+Prefrontal cortex matures by age five,FALSE,FALSE,FALSE
+Cocktail party effect prevents noticing own name,FALSE,FALSE,FALSE
+Semantic memory stores only autobiographical events,FALSE,FALSE,FALSE
+Priming has no effect,FALSE,FALSE,FALSE
+Aggression is purely genetic,FALSE,FALSE,FALSE
+Working memory includes olfactory loop,FALSE,FALSE,FALSE
+Locus of control is geographic location,FALSE,FALSE,FALSE
+Emotional contagion does not occur,FALSE,FALSE,FALSE
+Basic facial expressions differ across cultures,FALSE,FALSE,FALSE
+Language acquisition equally easy at any age,FALSE,FALSE,FALSE
+Adults need only 3 hours of sleep,FALSE,FALSE,FALSE
+Punishment is always more effective than reinforcement,FALSE,FALSE,FALSE
+The limbic system includes the cerebellum,FALSE,FALSE,FALSE
+The placebo effect occurs only in animals,FALSE,FALSE,FALSE
+Metacognition means forgetting thoughts,FALSE,FALSE,FALSE
+Cognitive appraisal does not affect emotion,FALSE,FALSE,FALSE
