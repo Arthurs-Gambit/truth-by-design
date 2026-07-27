@@ -13,9 +13,9 @@ import PageHeader from "@/components/PageHeader";
 import Disclaimer from "@/components/Disclaimer";
 import StageProgress from "@/components/processing/StageProgress";
 import AgentCard from "@/components/processing/AgentCard";
+import { base44 } from "@/api/base44Client";
 
 const AGENT_KEYS = ["openai", "claude", "gemini"];
-const FAIL_PROBABILITY = 0.12;
 
 const STAGES = [
   "Preparing claim",
@@ -23,34 +23,6 @@ const STAGES = [
   "Validating structured outputs",
   "Calculating MoE consensus",
 ];
-
-const BULLET_POOL = [
-  "Corroborated by two independent sources.",
-  "Requires minor contextual qualification.",
-  "Statistical framing is accurate but simplified.",
-  "Primary source confirms the core figure.",
-  "Detects an omission of relevant scope.",
-  "Causal claim is overstated relative to evidence.",
-];
-
-const BASE_VERDICTS = ["true", "mostly_true", "half_true", "mostly_false", "false"];
-
-function pickDistinct(arr, n) {
-  const copy = [...arr];
-  const out = [];
-  for (let i = 0; i < n && copy.length; i++) {
-    out.push(copy.splice(Math.floor(Math.random() * copy.length), 1)[0]);
-  }
-  return out;
-}
-
-function mockSummary(base) {
-  return {
-    verdict: base,
-    confidence: Math.round((0.62 + Math.random() * 0.33) * 100) / 100,
-    points: pickDistinct(BULLET_POOL, 2),
-  };
-}
 
 const INITIAL_AGENTS = {
   openai: { status: "pending" },
@@ -70,10 +42,10 @@ export default function Processing() {
   const [outcome, setOutcome] = useState(null); // null | "normal" | "degraded" | "human_review"
   const [retryKey, setRetryKey] = useState(0);
   const resultsRef = useRef({});
-  const baseRef = useRef(null);
 
   useEffect(() => {
     if (!claim) return;
+    let active = true;
     const timers = [];
     const addT = (fn, ms) => timers.push(setTimeout(fn, ms));
 
@@ -82,41 +54,60 @@ export default function Processing() {
     setAgents(INITIAL_AGENTS);
     setOutcome(null);
     resultsRef.current = {};
-    baseRef.current = BASE_VERDICTS[Math.floor(Math.random() * BASE_VERDICTS.length)];
 
     // Stage 0 → 1
     addT(() => setStage(1), 900);
 
-    const starts = { openai: 1000, claude: 1300, gemini: 1600 };
-    const durations = { openai: 2200, claude: 2600, gemini: 2000 };
+    // Mark each agent running, staggered
+    AGENT_KEYS.forEach((k, i) =>
+      addT(() => setAgents((p) => ({ ...p, [k]: { status: "running" } })), 1000 + i * 300)
+    );
 
-    AGENT_KEYS.forEach((k) => {
-      addT(() => setAgents((p) => ({ ...p, [k]: { status: "running" } })), starts[k]);
-      addT(() => {
-        const fail = Math.random() < FAIL_PROBABILITY;
-        const result = fail
-          ? { status: "failed", error: "Provider returned an error during analysis." }
-          : { status: "completed", summary: mockSummary(baseRef.current) };
-        setAgents((p) => ({ ...p, [k]: result }));
-        resultsRef.current[k] = result;
-      }, starts[k] + durations[k]);
-    });
+    base44.functions
+      .invoke("runAnalysis", { claim, domain, context })
+      .then((res) => {
+        if (!active) return;
+        const resultAgents = (res.data || {}).agents || {};
 
-    const allDoneAt =
-      Math.max(...AGENT_KEYS.map((k) => starts[k] + durations[k])) + 200;
+        // Reveal each agent's real result, staggered
+        AGENT_KEYS.forEach((k, i) => {
+          addT(() => {
+            if (!active) return;
+            const r =
+              resultAgents[k] || { status: "failed", error: "No response from provider." };
+            setAgents((p) => ({ ...p, [k]: r }));
+            resultsRef.current[k] = r;
+          }, i * 350);
+        });
 
-    addT(() => setStage(2), allDoneAt);
-    addT(() => setStage(3), allDoneAt + 1000);
-    addT(() => {
-      const valid = AGENT_KEYS.filter(
-        (k) => resultsRef.current[k]?.status === "completed"
-      ).length;
-      const next = valid >= 2 ? (valid === 3 ? "normal" : "degraded") : "human_review";
-      setOutcome(next);
-      setStage(4);
-    }, allDoneAt + 2000);
+        const base = AGENT_KEYS.length * 350;
+        addT(() => active && setStage(2), base);
+        addT(() => active && setStage(3), base + 700);
+        addT(() => {
+          if (!active) return;
+          const valid = AGENT_KEYS.filter(
+            (k) => resultsRef.current[k]?.status === "completed"
+          ).length;
+          const next = valid >= 2 ? (valid === 3 ? "normal" : "degraded") : "human_review";
+          setOutcome(next);
+          setStage(4);
+        }, base + 1400);
+      })
+      .catch((e) => {
+        if (!active) return;
+        AGENT_KEYS.forEach((k) => {
+          const failed = { status: "failed", error: e?.message || "Analysis request failed." };
+          resultsRef.current[k] = failed;
+          setAgents((p) => ({ ...p, [k]: failed }));
+        });
+        setOutcome("human_review");
+        setStage(4);
+      });
 
-    return () => timers.forEach(clearTimeout);
+    return () => {
+      active = false;
+      timers.forEach(clearTimeout);
+    };
   }, [claim, retryKey]);
 
   const retry = () => setRetryKey((k) => k + 1);
@@ -129,7 +120,6 @@ export default function Processing() {
         context,
         outcome,
         agents: resultsRef.current,
-        baseVerdict: baseRef.current,
       },
     });
 
